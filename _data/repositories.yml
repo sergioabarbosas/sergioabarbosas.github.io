@@ -4,9 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - eustlb/speech-to-speech
   - meta-llama/llama
-  - RubiksCubeGym
-  - openai-cookbook
+  - mistralai/mistral-inference
+  - huggingface/transformers
+  - openai/openai-cookbook
   - wombyz/gpt4all_langchain_chatbots
   - alshedivat/al-folio

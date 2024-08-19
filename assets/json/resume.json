@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Sergio Barbosa",
+    "name": "Sergio Andrés Barbosa",
     "label": "AI/ML Engineer",
     "image": "",
     "email": "sergioa_barbosast@javeriana.edu.co",
-    "phone": "(+57) 314-283XXXX",
+    "phone": "(+57) 312 123456789",
     "url": "https://sergioabarbosas.github.io",
-    "summary": "I am deeply passionate about intelligent systems, with a research focus at the intersection of Artificial Intelligence (AI) and human understanding. My goal is to create conversational agents that interact with people in a natural, human-like manner. I have actively advanced the development of these systems by leveraging machine learning (ML) capabilities and specialized language models.",
+    "summary": "I am deeply passionate about intelligent systems, with a research focus at the intersection of Artificial Intelligence (AI) and human understanding. My goal is to create conversational agents that interact with people in a natural, human like manner. I have actively advanced the development of these systems by leveraging machine learning (ML) capabilities and specialized language models.",
     "location": {
       "address": "135 St",
       "postalCode": "11023",
@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "X",
+        "network": "Twitter",
         "username": "@SergioB97444712",
         "url": "https://x.com/SergioB97444712"
       }
@@ -70,7 +70,7 @@
     },
     {
       "institution": "The Naval School ’Almirante Padilla’, Cartagena, Colombia",
-      "location": "Cartagena de Indias, Colombia",
+      "location": "Cartagena, Colombia",
       "url": "https://www.escuelanaval.edu.co/ingenieria-electronica",
       "area": "Electronic Engineer",
       "studyType": "B.S.",
@@ -163,7 +163,7 @@
       "publisher": "In review",
       "releaseDate": "2024-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "The main contribution of this work is the finetuning of a model using a proprietary dataset extracted from social networks, georeferenced in Colombia, and manually labelled with typical and dialect‑specific features. Indeed, the experiment compares the performance of TLM models adjusted to the Colombian slang domain against a GPT, having a significant impact on achieving more accurate predictions in this task."
+      "summary": "The main contribution of this work is the finetuning of a model using a proprietary dataset extracted from social networks, georeferenced in Colombia, and manually labelled with typical and dialect specific features. Indeed, the experiment compares the performance of TLM models adjusted to the Colombian slang domain against a GPT, having a significant impact on achieving more accurate predictions in this task."
     },
     {
       "name": "Identifying depressive language on Twitter with Word Embeddings and LDA",
@@ -222,7 +222,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "PhD Leonardo Flórez-Valencia",
+      "name": "PhD Leonardo Flórez Valencia",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
