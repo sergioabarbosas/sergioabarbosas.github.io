@@ -9,7 +9,6 @@ category: fun
 
 Follow my kitesurfing journey as a beginner. I've managed to stand on the board and navigate a bit—each step is a victory as I work towards mastering this exciting sport.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/kite2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

@@ -9,7 +9,6 @@ category: fun
 
 Check out my bikepacking adventures across Colombia, where I’ve tackled various routes and discovered stunning mountain views. These experiences highlight my passion for long-distance cycling, overcoming challenges, and exploring the great outdoors.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bike3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

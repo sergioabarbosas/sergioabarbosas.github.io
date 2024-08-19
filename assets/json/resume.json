@@ -30,7 +30,12 @@
       "startDate": "2022-06-01",
       "endDate": "Present",
       "summary": "Expertly developed innovative technological solutions based on language models for the creation of conversational agents for digital transformation, applied in areas such as healthcare and business.",
-      "highlights": ["AI generative techniques, NLP and finetuning Large Language Models(LLMs)", "Designing conversational agents, applying DL and ML techniques", "Quantisation models and speaker diarisation", "dialog management"]
+      "highlights": [
+        "AI generative techniques, NLP and finetuning Large Language Models(LLMs)",
+        "Designing conversational agents, applying DL and ML techniques",
+        "Quantisation models and speaker diarisation",
+        "dialog management"
+      ]
     }
   ],
   "volunteer": [
@@ -183,7 +188,7 @@
         "Data Science",
         "Generative Artificial Intelligence",
         "Machine Learning",
-        "High performance computing (HPC)", 
+        "High performance computing (HPC)",
         "Software Architecture",
         "Conversational Agents"
       ]

@@ -23,7 +23,7 @@ Throughout my professional and academic career, I have concentrated on DL, ML, N
 
 Recently, my work has included:
 
-1. Developing thesis on the design and implementation of a modular software architecture for RAG systems in LLM‑based virtual assistants with focus on exploring conversational memory factors 🧠. 
+1. Developing thesis on the design and implementation of a modular software architecture for RAG systems in LLM‑based virtual assistants with focus on exploring conversational memory factors 🧠.
 
 2. Innovating technological solutions based on language models to create conversational agents for digital transformation, applied in sectors such as healthcare ⚕️ and business.
 
