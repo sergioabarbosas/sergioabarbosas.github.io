@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sergioabarbosas
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sergioabarbosas/poc-hs-rs-ms-col
+  - sergioabarbosas/poc-depressive
+  - sergioabarbosas/image_filter_ocr
+  - sergioabarbosas/speech_evaluate
+  - sergioabarbosas/DL_project_segmentation
+  - ND-PUJ-NLP
