@@ -234,6 +234,13 @@
       "highlights": ["Deep Learning", "Named Entity Recognition (NER)"],
       "startDate": "2023-09-01",
       "endDate": "2023-31-12"
+    },
+    {
+      "name": "Center of Excellence in Big Data & Data Analytics",
+      "summary": "Successfully development of research project about text classification in the social context.",
+      "highlights": ["Transformers Language Models", "NLP"],
+      "startDate": "2022-18-07",
+      "endDate": "2022-30-11"
     }
   ]
 }
