@@ -2,7 +2,7 @@
 layout: page
 title: Bikepacking Adventures
 description: Epic Bikepacking Trips
-img: assets/img/bike1.jpg
+img: assets/img/bike0.jpg
 importance: 3
 category: fun
 ---
