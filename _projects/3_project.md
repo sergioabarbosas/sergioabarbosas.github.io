@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Conversational Agents
+description: Developed a language model-based solution for creating conversational agents. 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Developed conversational agents using language models to assist in oncology support and enhance customer service for businesses. These agents provide tailored information and support, improving user interaction and operational efficiency.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

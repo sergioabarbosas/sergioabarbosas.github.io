@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
+title: repositories
 description: This is the public repository page for my GitHub profile, where you can explore my projects contributions, and open-source work.
 nav: true
 nav_order: 4

@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Emotion Recognition
+description: label students’ emotions
 img: assets/img/4.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Developed a computer vision system to label and analyze students' emotions using advanced image processing techniques. This meritorious thesis in computer vision was achieved by implementing an AI model that utilizes Reinforcement Learning (RL) and Convolutional Neural Networks (CNN) to assess students’ emotions during virtual classes based on their facial expressions, gaze, and gestures.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am deeply passionate about intelligent systems, with a research focus on the intersection of Artificial Intelligence (AI) and human understanding. My goal is to develop conversational agents that interact with people in a human-like manner.
+I am deeply passionate about intelligent systems, with a research focus on the intersection of Artificial Intelligence (AI) and human understanding. My goal is to develop conversational agents that interact with people in a manner that mirrors natural human interaction.
 
 Throughout my professional and academic career, I have concentrated on DL, ML, NLP. Leveraging my background in computer science, I have advanced the development of conversational systems by utilizing the capabilities of AI and specialized language models.
 

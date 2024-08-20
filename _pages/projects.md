@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A diverse collection of my professional and hobby projects, showcasing a variety of exciting and impactful work. Explore my work across different fields, from career-driven initiatives to personal passions.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
