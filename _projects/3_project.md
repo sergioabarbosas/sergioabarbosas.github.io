@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conversational Agents
-description: Developed a language model-based solution for creating conversational agents. 
+description: Developed a language model-based solution for creating conversational agents.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
