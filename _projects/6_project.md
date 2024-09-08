@@ -44,4 +44,3 @@ Dive into my trekking experiences as I traverse diverse landscapes and tackle va
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-{% endraw %}

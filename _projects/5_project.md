@@ -32,4 +32,3 @@ Follow my kitesurfing journey as a beginner. I've managed to stand on the board 
     It was a magic experience.
 </div>
 
-{% endraw %}

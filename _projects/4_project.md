@@ -45,5 +45,3 @@ Before tackling the ascent to 'Alto de la Línea,' I pushed myself hard to conqu
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
-
-{% endraw %}
