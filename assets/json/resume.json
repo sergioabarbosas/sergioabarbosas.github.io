@@ -153,17 +153,10 @@
   "publications": [
     {
       "name": "Detection of Hate Speech, Racism and Misogyny in Digital Social Networks: Colombian",
-      "publisher": "In review",
-      "releaseDate": "2024-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "publisher": "Big Data and Cognitive Computing",
+      "releaseDate": "2024-09-06",
+      "url": "https://doi.org/10.3390/bdcc8090113",
       "summary": "The main contribution of this work is the finetuning of a model using a proprietary dataset extracted from social networks, georeferenced in Colombia, and manually labelled with typical and dialect specific features. Indeed, the experiment compares the performance of TLM models adjusted to the Colombian slang domain against a GPT, having a significant impact on achieving more accurate predictions in this task."
-    },
-    {
-      "name": "Identifying depressive language on Twitter with Word Embeddings and LDA",
-      "publisher": "In review",
-      "releaseDate": "2024-07-15",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "This study explores how mood manifests in text publications on Twitter, aiming to identify patterns indicative of depressive, anxious, and potentially suicidal language. This work involves training models using Word Embeddings methodology and applying Latent Dirichlet Allocation (LDA) to group topics, comparing their performance with LLMs."
     }
   ],
   "skills": [
