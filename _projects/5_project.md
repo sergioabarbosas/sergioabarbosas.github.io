@@ -31,4 +31,3 @@ Follow my kitesurfing journey as a beginner. I've managed to stand on the board 
 <div class="caption">
     It was a magic experience.
 </div>
-
