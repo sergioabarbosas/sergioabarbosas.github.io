@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emotion Recognition
-description: label students’ emotions
+description: Label students’ emotions
 img: assets/img/port2.jpg
 importance: 1
 category: work
@@ -14,8 +14,14 @@ The literature includes various techniques for systematic detection of affective
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/face.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Image source: https://news.mit.edu/2022/optimized-solution-face-recognition-0406.
 </div>
 
 This meritorious thesis in computer vision was achieved by implementing an AI model that utilizes Reinforcement Learning (RL) and Convolutional Neural Networks (CNN) to assess students’ emotions during virtual classes based on their facial expressions, gaze, and gestures.
