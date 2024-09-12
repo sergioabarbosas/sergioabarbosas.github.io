@@ -5,7 +5,6 @@ description: Identifying depressive language on Twitter with Word Embeddings and
 img: assets/img/9.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 This study explores how mood manifests in text publications on Twitter, aiming to identify patterns indicative of depressive, anxious, and potentially suicidal language. This work involves training models using Word Embeddings methodology and applying Latent Dirichlet Allocation (LDA) to group topics, comparing their performance with LLMs.
