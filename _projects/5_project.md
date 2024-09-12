@@ -13,16 +13,10 @@ Follow my kitesurfing journey as a beginner. I've managed to stand on the board 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/kite2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
-<div class="caption">
-    I recently spent some time learning kitesurfing at Cabo de la Vela, one of the top spots in the world for the sport. The stunning scenery and ideal conditions made it an unforgettable experience, perfect for both beginners and seasoned riders.
-</div>
+
+I recently spent some time learning kitesurfing at Cabo de la Vela, one of the top spots in the world for the sport. The stunning scenery and ideal conditions made it an unforgettable experience, perfect for both beginners and seasoned riders.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/kite1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

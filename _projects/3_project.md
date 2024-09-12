@@ -3,7 +3,7 @@ layout: page
 title: Conversational Agents
 description: Developed a language model-based solution for creating conversational agents.
 img: assets/img/chatbot.jpg
-redirect: https://unsplash.com
+# redirect: https://unsplash.com
 importance: 3
 category: work
 ---
