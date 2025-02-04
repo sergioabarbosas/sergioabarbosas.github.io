@@ -46,9 +46,9 @@
       "area": "Computer Science and Systems Enginnering",
       "studyType": "MEng",
       "startDate": "2024-02-15",
-      "endDate": "Current",
+      "endDate": "2024-11-31",
       "score": "-",
-      "courses": ["High performance computing (HPC)", "Software Architecture"]
+      "courses": ["High performance computing (HPC)", "Software Architecture", "Project Managment"]
     },
     {
       "institution": "Pontificia Universidad Javeriana, Bogotá, Colombia",
@@ -59,10 +59,10 @@
       "startDate": "2021-06-01",
       "endDate": "2022-12-01",
       "score": "4.66/5",
-      "courses": ["Natural Language Processing", "Computer vision"]
+      "courses": ["Natural Language Processing", "Computer vision", "Deep learning", "Machine Learning"]
     },
     {
-      "institution": "The Naval School ’Almirante Padilla’, Cartagena, Colombia",
+      "institution": "The Naval School 'Almirante Padilla', Cartagena, Colombia",
       "location": "Cartagena, Colombia",
       "url": "https://www.escuelanaval.edu.co/ingenieria-electronica",
       "area": "Electronic Engineer",
