@@ -26,4 +26,8 @@ Recently, my work has included:
 
 2. Innovating technological solutions based on language models to create conversational agents for digital transformation, applied in sectors such as healthcare ⚕️ and other industries.
 
-My highly motivated research is driven by a strong interest in the convergence of AI and human understanding. This field has fueled my intellectual curiosity, as I am fascinated by how language serves not only as a communicative tool but also as a computational instrument. The inherent human ability to understand and generate novel statements from limited data underscores language's role in acquiring new concepts and shaping our reasoning processes.
+<!-- My highly motivated research is driven by a strong interest in the convergence of AI and human understanding. This field has fueled my intellectual curiosity, as I am fascinated by how language serves not only as a communicative tool but also as a computational instrument. The inherent human ability to understand and generate novel statements from limited data underscores language's role in acquiring new concepts and shaping our reasoning processes. -->
+
+My highly motivated research is driven by a strong interest in the convergence of intelligent systems 🤖 and quantum computing ⚛️. I am eager to expand my expertise into quantum computing, an area that deeply fascinates me. The potential of quantum systems to revolutionize computation aligns with my passion for exploring solutions at the intersection of AI, data, and human intelligence.
+
+It is my strong desire to study and contribute to the advancements in this field, particularly as it relates to solving complex problems that go beyond the reach of classical computing.
