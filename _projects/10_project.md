@@ -63,7 +63,7 @@ The first day, we walked 18 km to Finca La Primavera. The second day was for acc
         {% include figure.liquid path="assets/img/climb8.jpeg" title="image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/climb6.jpg" title="image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/climb6.jpeg" title="image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -72,7 +72,7 @@ The first day, we walked 18 km to Finca La Primavera. The second day was for acc
         {% include figure.liquid path="assets/img/climb7.jpeg" title="image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/climb3.jpg" title="image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/climb3.jpeg" title="image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
