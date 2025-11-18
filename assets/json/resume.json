@@ -6,7 +6,7 @@
     "email": "allyouneedislove_x@proton.me",
     "phone": "(+57) 312 123456789",
     "url": "https://sergioabarbosas.github.io",
-    "summary": "I am deeply passionate about intelligent systems, with a research focus at the intersection of Artificial Intelligence (AI) and human understanding. My goal is to create conversational agents that interact with people in a natural, human like manner. I have actively advanced the development of these systems by leveraging machine learning (ML) capabilities and specialized language models.",
+    "summary": "I am passionate about intelligent systems and the intersection of AI and Quantum Computing. My research focuses on leveraging quantum principles to enhance AI, particularly in conversational agents and NLP. With a background in Computer Science, I have worked on AI-driven systems applied to oncology, business, and social impact, aiming to address challenges with high societal impact.",
     "location": {
       "address": "135 St",
       "postalCode": "11023",
@@ -24,11 +24,20 @@
   },
   "work": [
     {
+      "name": "Prosecutor General’s Office",
+      "position": "Expert Research",
+      "url": "https://www.fiscalia.gov.co/colombia/en/",
+      "startDate": "2025-08-01",
+      "endDate": "Present",
+      "summary": "Expertly implemented innovative solutions based on AI, NLP, and data science, with a special focus on the Prosecutor General's Office for investigating financial crimes in Colombia. My skills include AI, NLP, and data science.",
+      "highlights": ["AI/NLP", "Data Science", "Design and Development Software"]
+    },
+    {
       "name": "Digital GHENOVA, Spain",
       "position": "AI/ML Engineer",
       "url": "https://digital.ghenova.com/",
       "startDate": "2022-06-01",
-      "endDate": "Present",
+      "endDate": "2025-07-28",
       "summary": "Expertly developed innovative technological solutions based on language models for the creation of conversational agents for digital transformation, applied in areas such as healthcare and business.",
       "highlights": [
         "AI generative techniques, NLP and finetuning Large Language Models(LLMs)",
@@ -178,6 +187,13 @@
   ],
   "publications": [
     {
+      "name": "National Patent P202331094. System for Implementing a Digital Navigation Notebook Managed by Voice and Integrated with the Data Acquisition System of a Vessel, and Application Procedure (Spanish Patent and Trademark Office).",
+      "publisher": "Publication No. ES2968547 Spanish Patent and Trademark Office",
+      "releaseDate": "2024-10-24",
+      "url": "https://ceo.oepm.es/detalleExpediente?numExp=P202331094",
+      "summary": "Member of the Inventor Team, implementing AI/NLP models to develop an integrated conversational intelligent system for acquiring data from vessel devices and the operational crew."
+    },
+    {
       "name": "Detection of Hate Speech, Racism and Misogyny in Digital Social Networks: Colombian",
       "publisher": "Big Data and Cognitive Computing",
       "releaseDate": "2024-09-06",
@@ -210,6 +226,11 @@
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Frech",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
@@ -246,6 +267,13 @@
       "highlights": ["Deep Learning", "Named Entity Recognition (NER)"],
       "startDate": "2023-09-01",
       "endDate": "2023-31-12"
+    },
+    {
+      "name": "2024 CFP Tech Ethics Lab, University of Notre Dam",
+      "summary": "The goal of this project is to create a Question-Answering System for the Colombian Truth Commission, the first-ever digital archive of the peace process. I am part of the research team at Pontificia Universidad Javeriana (PUJ) and participate in the development of the project.",
+      "highlights": ["AI", "NLP"],
+      "startDate": "2024-28-07",
+      "endDate": "2024-30-11"
     },
     {
       "name": "Center of Excellence in Big Data & Data Analytics",
